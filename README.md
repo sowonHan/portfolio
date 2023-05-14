@@ -32,7 +32,7 @@ Javascript와 React 등을 사용하여 서비스를 설계, 개발한 경험으
 > 일기예보 웹사이트
 > 개발 기간 : 2022.05.13 ~ 2022.05.31
 >
-> 기술 스택:
+> 기술 스택:  
 > Javascript / HTML5 / CSS3 / React / Axios / React Router / Styled Component / Ant Design / Figma
 > 
 > [프로젝트 상세 설명](https://github.com/sowonHan/today-weather) 참고
@@ -43,7 +43,7 @@ Javascript와 React 등을 사용하여 서비스를 설계, 개발한 경험으
 > 영화, TV 프로그램 검색 서비스
 > 개발 기간 : 2023.01.16 ~ 2023.04.11
 > 
-> 기술 스택:
+> 기술 스택:  
 > Javascript / HTML5 / CSS3 / Sass / React / Redux / Redux Thunk / Axios / React Router
 > 
 > [프로젝트 상세 설명](https://github.com/sowonHan/which-one) 참고
