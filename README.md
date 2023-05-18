@@ -5,7 +5,7 @@
 
 ## 👩‍💻 Intro
 안녕하세요.  
-Javascript와 React 등을 사용하여 서비스를 설계, 개발한 경험으로  
+Javascript와 React 등을 사용하여 웹사이트를 설계, 개발한 경험으로  
 더 나은 UX, 더 효율적인 코드를 만들기 위해서 늘 고민을 멈추지 않는 프론트엔드 개발자 한소원입니다.
 
 <br>
@@ -40,7 +40,7 @@ Javascript와 React 등을 사용하여 서비스를 설계, 개발한 경험으
 ---
 
 ### 3. [Which One Demand On](https://github.com/sowonHan/which-one)
-> 영화, TV 프로그램 검색 서비스
+> 영화, TV 프로그램 검색 웹사이트
 > 개발 기간 : 2023.01.16 ~ 2023.04.11
 > 
 > 기술 스택:  
