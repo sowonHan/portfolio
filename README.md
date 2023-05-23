@@ -40,7 +40,7 @@ Javascript와 React 등을 사용하여 웹사이트를 설계, 개발한 경험
 ---
 
 ### 3. [Which One Demand On](https://github.com/sowonHan/which-one)
-> 영화, TV 프로그램 검색 웹사이트  
+> 한국 박스오피스 조회 및 영화, TV 프로그램 검색 웹사이트  
 > 개발 기간 : 2023.01.16 ~ 2023.04.11
 > 
 > 기술 스택:  
