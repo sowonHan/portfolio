@@ -13,6 +13,7 @@ Javascript와 React 등을 사용하여 웹사이트를 설계, 개발한 경험
 ## 📞 Contact
 - 이메일 : hansowon.dev@gmail.com
 - 깃헙 : https://github.com/sowonHan
+- 블로그 : https://rippang-swh.tistory.com/
 
 <br>
 
