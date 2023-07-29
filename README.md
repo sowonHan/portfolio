@@ -21,7 +21,7 @@
 
 ## 📌 Projects
 ### 1. [고궁 산책](https://github.com/sowonHan/walking_palace)
-> 고궁행사 일정 체크 및 안내 웹사이트  
+> 조선 4대궁을 소개하고 고궁에서 진행되는 행사 일정을 조회할 수 있는 반응형 웹사이트  
 > 개발 기간 : 2022.04.01 ~ 2022.05.02
 >
 > 기술 스택:  
@@ -32,22 +32,22 @@
 ---
 
 ### 2. [오늘 날씨 어때?](https://github.com/sowonHan/today-weather)
-> 일기예보 웹사이트  
+> 도시별 일기예보 웹사이트  
 > 개발 기간 : 2022.05.13 ~ 2022.05.31
 >
 > 기술 스택:  
-> Javascript / HTML5 / CSS3 / React / Axios / React Router / Styled Component / Ant Design / Figma
+> Javascript / HTML5 / Styled Component / React / Axios / React Router / Ant Design / Figma
 > 
 > [프로젝트 상세 설명 보러 가기](https://github.com/sowonHan/today-weather)
 
 ---
 
 ### 3. [Which One Demand On](https://github.com/sowonHan/which-one)
-> 한국 박스오피스 및 글로벌 영화, TV 프로그램 조회 웹사이트  
+> 한국 박스오피스를 조회하고 전세계의 미디어 콘텐츠 정보를 검색할 수 있는 반응형 웹사이트  
 > 개발 기간 : 2023.01.16 ~ 2023.04.11
 > 
 > 기술 스택:  
-> Javascript / HTML5 / CSS3 / Sass / React / Redux / Redux Thunk / Axios / React Router
+> Javascript / HTML5 / Sass / React / Redux / Redux Thunk / Axios / React Router
 > 
 > [프로젝트 상세 설명 보러 가기](https://github.com/sowonHan/which-one)
 
