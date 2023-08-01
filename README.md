@@ -20,14 +20,14 @@
 <br>
 
 ## 📌 Projects
-### 1. [고궁 산책](https://github.com/sowonHan/walking_palace)
-> 조선 4대궁을 소개하고 고궁에서 진행되는 행사 일정을 조회할 수 있는 반응형 웹사이트  
-> 개발 기간 : 2022.04.01 ~ 2022.05.02
->
+### 1. [Which One Demand On](https://github.com/sowonHan/which-one)
+> 한국 박스오피스를 조회하고 전세계의 미디어 콘텐츠 정보를 검색할 수 있는 반응형 웹사이트  
+> 개발 기간 : 2023.01.16 ~ 2023.04.11
+> 
 > 기술 스택:  
-> Javascript / HTML5 / CSS3 / jQuery / Figma
->
-> [프로젝트 상세 설명 보러 가기](https://github.com/sowonHan/walking_palace)
+> Javascript / HTML5 / Sass / React / Redux / Redux Thunk / Axios / React Router
+> 
+> [프로젝트 상세 설명](https://github.com/sowonHan/which-one)
 
 ---
 
@@ -38,17 +38,17 @@
 > 기술 스택:  
 > Javascript / HTML5 / Styled Component / React / Axios / React Router / Ant Design / Figma
 > 
-> [프로젝트 상세 설명 보러 가기](https://github.com/sowonHan/today-weather)
+> [프로젝트 상세 설명](https://github.com/sowonHan/today-weather)
 
 ---
 
-### 3. [Which One Demand On](https://github.com/sowonHan/which-one)
-> 한국 박스오피스를 조회하고 전세계의 미디어 콘텐츠 정보를 검색할 수 있는 반응형 웹사이트  
-> 개발 기간 : 2023.01.16 ~ 2023.04.11
-> 
+### 3. [고궁 산책](https://github.com/sowonHan/walking_palace)
+> 조선 4대궁을 소개하고 고궁에서 진행되는 행사 일정을 조회할 수 있는 반응형 웹사이트  
+> 개발 기간 : 2022.04.01 ~ 2022.05.02
+>
 > 기술 스택:  
-> Javascript / HTML5 / Sass / React / Redux / Redux Thunk / Axios / React Router
-> 
-> [프로젝트 상세 설명 보러 가기](https://github.com/sowonHan/which-one)
+> Javascript / HTML5 / CSS3 / jQuery / Figma
+>
+> [프로젝트 상세 설명](https://github.com/sowonHan/walking_palace)
 
 <br>
